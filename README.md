@@ -7,4 +7,4 @@
 
 Текущая версия
 ------------
-https://exanimates.github.io/USADebtClicker/
+https://exanimates.github.io/USA-Debt-Clicker/
